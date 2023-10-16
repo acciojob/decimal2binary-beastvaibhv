@@ -1,5 +1,6 @@
 function decimalToBinary(num) {
-  //Write you code here
+  const binNum = num.tostring(2);
+  return binNum;
   
 }
 
